@@ -1,0 +1,28 @@
+.rivi {
+    display: table;
+    
+}
+
+.kol {
+    display: table-cell;
+    margin: 100px;
+}
+
+.elementti1 {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+  }
+  
+  .elementti2 {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+  }
+  
+  .elementti3 {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+  }
+  
